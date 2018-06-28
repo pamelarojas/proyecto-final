@@ -1,4 +1,4 @@
-#  # #Requisitos General:
+#Requisitos General:
 
 _ pag "Landing pages"
 
@@ -23,7 +23,7 @@ _ pag "Landing pages"
 
 
 
-Requerimiento Especifico:
+#Requerimiento Especifico:
 
 *1º css 3
 
@@ -38,7 +38,7 @@ Requerimiento Especifico:
 *6º font awesone para los iconos
 
 
-_Requerimientos visuales:
+#Requerimientos visuales:
 
 *1º titulos:
 
